@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 sachin
+=======
+Good Afternoon All of You
+>>>>>>> feature1
+rahul
